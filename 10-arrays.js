@@ -118,7 +118,7 @@ let myNewArray = myArray.slice(2, 4)
 console.log(myNewArray)
 
 
-// splice elimina los elementos indicados y puede añadir otros en su lugar 
+// .splice() elimina los elementos indicados y puede añadir otros en su lugar 
  
 myArray.splice(1, 3)
 console.log(myArray)
